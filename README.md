@@ -7,6 +7,8 @@ Mathematica code which will give the eigenvalues and berry curvature
 
 ![](/eigenvalues/eigenvaluesZem50.png)
 
+![](berryCurve.png)
+
 ## To Do
 * need to add calculation of nernst effect to archive
 * Berry Curvature can probably be optimized a little further using parallelization
